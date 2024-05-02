@@ -1,5 +1,5 @@
 - Kullanıcıdan bir sayı girilmesini, bu sayının artış veya azalış değerini ve gerçekleşmesi istenen döngü sayısının girilmesini istenir. 
-- Eğer radiobutton'lar ve textbox'lardan herhangi birisine veri girilmemişse girilmesi için uyarı verir ve kod bloğu çalışmaz.
+- Eğer radiobutton'lar seçilmemişse ve textbox'lardan herhangi birisine veri girilmemişse, girilmesi için uyarı verir ve kod bloğu çalışmaz.
 - Sayı girilen textbox'ın, sadece tam sayı girilmesi için "keypress event"ine: 1 kere "-" ifadesi yazılmasına, silme tuşuna ve sadece sayı girilmesine müsade edilen kod bloğu yazılmıştır.
 - Diğer veri girişi isteyen textbox'ların "keypress event"ine sadece sayı girilmesi istenmiştir.
 - While, Do While, For döngülerini anlamak ve pekiştirmek için yaptığım bir uygulama.
